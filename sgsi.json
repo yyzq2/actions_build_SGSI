@@ -1,9 +1,9 @@
 {
-  "rom_url": "https://hugeota.d.miui.com/21.1.14/miui_RAPHAEL_21.1.14_979131bba9_11.0.zip",
+  "rom_url": "https://download.meizu.com/Firmware/Flyme/meizu17_Pro/9.0.0.0/cn/20210430192838/b1c0c821/update.zip",
   "rom_name": "update.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "miui",
+  "rom_type": "flyme",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
